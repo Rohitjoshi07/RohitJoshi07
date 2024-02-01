@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rohit Joshi</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from India, currently living in Noida.</h3>
 
 
-- 🔭 I’m currently working as **Data Engineer**
+- 🔭 I’m currently working as **Data Engineer** at Paytm Payments Bank.
 
-- 🌱 I’m currently learning **Advance data engineering and analytics**
+- 🌱 I’m currently exploring **Advance data engineering and machine learning**
 
-- 💬 Ask me about **Data engineering, python, backend developement**
+- 💬 Ask me about **Data engineering, python, backend development**
 
 - 📫 How to reach me **rohitjoshi9july@gmail.com**
 
