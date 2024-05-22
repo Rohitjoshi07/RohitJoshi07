@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Data Engineer from India, currently living in Noida.</h3>
 
 
-- 🔭 I’m currently working as **Data Engineer** at Paytm Payments Bank.
+- 🔭 I’m currently working as **Data Engineer Consultant** at Thoughtworks.
 
-- 🌱 I’m currently exploring **Advance data engineering and machine learning**
+- 🌱 I’m currently exploring **Advanced data engineering and machine learning**
 
 - 💬 Ask me about **Data engineering, python, backend development**
 
