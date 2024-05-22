@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Joshi</h1>
-<h3 align="center">A passionate Data Engineer from India, currently living in Noida.</h3>
+<h3 align="center">A passionate Data Engineer from India, currently living in Gurgaon.</h3>
 
 
 - 🔭 I’m currently working as **Data Engineer Consultant** at Thoughtworks.
